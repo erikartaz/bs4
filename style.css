@@ -1,0 +1,21 @@
+.box1 {
+    background: green;
+    padding: 50px;
+}
+.box2 {
+    background: blue;
+    padding: 50px;
+
+}
+.box3 {
+    background: red;
+    padding: 50px;
+
+}
+.titolo-grande {
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
